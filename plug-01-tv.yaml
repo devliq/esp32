@@ -1,5 +1,5 @@
 substitutions:
-  device_name: "plug-01-tv"
+  #device_name: "plug-01-tv"
   alias_name: "Living Room TV"
   device_description: "Measure the energy consumption of the Living Room Entertainment Center"
   set_timezone: "Canada/Toronto"
